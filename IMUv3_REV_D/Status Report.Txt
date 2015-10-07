@@ -1,0 +1,10 @@
+Output: Copy of Bill of Materials
+Type  : BOM
+From  : Variant [IMU_REV_D] of Project [IMU_REV_D.PrjPcb]
+   Generated File[Copy of Bill of Materials-IMU_REV_D(IMU_REV_D).xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:23:58 AM On 28/07/2015
